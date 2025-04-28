@@ -82,10 +82,7 @@ else:
 
 ```
 ## Output:
-
-![download](https://github.com/user-attachments/assets/9dab6dbb-41eb-4e95-81ee-af4443a77f49)
-
-
+![Screenshot 2025-04-28 213531](https://github.com/user-attachments/assets/da493a56-e330-4a07-8f3c-bb8c5f0796f6)
 
 ## Result:
 Thus the edges are detected using Sobel, Laplacian, and Canny edge detectors.
